@@ -1,5 +1,5 @@
 
-# 🌾 Crop Recommendation System using Machine Learning
+# 🌾 Predicting the most Suitable Crop based on Soil & Environmental Parameters
 
 This project provides an intelligent crop recommendation system based on environmental conditions and soil nutrients using a supervised machine learning approach. It helps farmers and agricultural stakeholders make data-driven decisions on what crop to cultivate for optimal yield.
 
