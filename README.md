@@ -1,7 +1,7 @@
 
 # 🌾 Predicting the most Suitable Crop based on Soil & Environmental Parameters
 
-This project provides an intelligent crop recommendation system based on environmental conditions and soil nutrients using a supervised machine learning approach. It helps farmers and agricultural stakeholders make data-driven decisions on what crop to cultivate for optimal yield.
+This project provides an intelligent crop recommendation system based on environmental conditions and soil nutrients using Deep Learning. It helps farmers and agricultural stakeholders make data-driven decisions on what crop to cultivate for optimal yield.
 
 ## 📁 Project Structure
 
@@ -30,10 +30,11 @@ We use TensorFlow and Keras to build a neural network model. Hyperparameter tuni
 
 ### Techniques Used:
 
+- Exploratory Data Analysis
 - Data normalization and preprocessing
 - Categorical encoding
 - Hyperparameter tuning with `kt.Hyperband`
-- Early stopping with model checkpointing
+- Early stopping
 - Evaluation with classification report and accuracy metrics
 
 ## 🏁 Getting Started
